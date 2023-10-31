@@ -6,7 +6,7 @@ A small repository to showcase the idea of a quick UI tour for UI5 applications.
 
 You can find the initial state of the application in the [starter](./starter/) folder and the finished version in the [finished](./finished/) folder.
 
-To run either of the version:
+To run either version:
 
  - Clone the repository
  - run `npm install`
